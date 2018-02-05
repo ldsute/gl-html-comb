@@ -3,8 +3,8 @@
 
 To use (with caution), simply do::
 
-    >>> import funniest
-    >>> print funniest.joke()
+    >>> import glhtmlcomb
+    >>> print glhtmlcomb.joke()
 
 ## In a development environment
     >>> python3.6 -m venv venv
