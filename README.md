@@ -10,7 +10,6 @@ To use (with caution), simply do::
     >>> python3.6 -m venv venv
     >>> source venv/bin/activate
     >>> pip install -r requirements.txt
-    
 
     >>> python setup.py develop
     >>> python setup.py test
